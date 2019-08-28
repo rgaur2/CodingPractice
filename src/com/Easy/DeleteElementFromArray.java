@@ -13,6 +13,8 @@ public class DeleteElementFromArray {
 	        System.out.println("Modified array is"); 
 	        for (int i = 0; i < n; i++) 
 	            System.out.print(arr[i]+" "); 
+	        
+	        //hello
 	}
 	
 	
